@@ -16,4 +16,5 @@ c_label.grid(row=2, column=1)
 c_temp_label = tkinter.Label(root, text="")
 c_temp_label.grid(row=2, column=2)
 
+# End the program
 root.mainloop()
